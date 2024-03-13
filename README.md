@@ -11,11 +11,11 @@ Diverse Movie Selection: EmoCine offers a wide range of movie genres to cater to
 Getting Started
 To get started with EmoCine, simply follow these steps:
 
-Clone the EmoCine repository to your local machine.
-Install the required dependencies.
-Run the EmoCine application.
-Allow access to your webcam for real-time emotion detection.
-Sit back, relax, and let EmoCine recommend the perfect movie for you!
+1) Clone the EmoCine repository to your local machine.
+2) Install the required dependencies.
+3) Run the EmoCine application.
+4) Allow access to your webcam for real-time emotion detection.
+5) Sit back, relax, and let EmoCine recommend the perfect movie for you!
 
 
 Dependencies
