@@ -17,15 +17,15 @@ To get started with EmoCine, simply follow these steps:
 4) Allow access to your webcam for real-time emotion detection.
 5) Sit back, relax, and let EmoCine recommend the perfect movie for you!
 
+Dataset - (https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+Dependencies are listed here
 
-Dependencies
-
-tensorflow
-numpy
-scipy
-opencv-python
-pillow
-pandas
-matplotlib
-h5py
+1) tensorflow
+2) numpy
+3) scipy
+4) opencv-python
+5) pillow
+6) pandas
+7) matplotlib
+8) h5py
 keras
